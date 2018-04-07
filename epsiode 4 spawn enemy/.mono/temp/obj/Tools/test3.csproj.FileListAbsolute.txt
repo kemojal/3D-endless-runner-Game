@@ -1,0 +1,6 @@
+/Users/kemojallow/Desktop/newGame/.mono/temp/bin/Tools/test3.dll
+/Users/kemojallow/Desktop/newGame/.mono/temp/bin/Tools/test3.pdb
+/Users/kemojallow/Desktop/newGame/.mono/temp/obj/Tools/test3.csprojResolveAssemblyReference.cache
+/Users/kemojallow/Desktop/newGame/.mono/temp/obj/Tools/test3.csproj.CoreCompileInputs.cache
+/Users/kemojallow/Desktop/newGame/.mono/temp/obj/Tools/test3.dll
+/Users/kemojallow/Desktop/newGame/.mono/temp/obj/Tools/test3.pdb

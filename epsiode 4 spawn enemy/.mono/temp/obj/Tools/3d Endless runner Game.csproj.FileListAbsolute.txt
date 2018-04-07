@@ -1,0 +1,6 @@
+/Users/kemojallow/Desktop/newGame/.mono/temp/bin/Tools/3d Endless runner Game.dll
+/Users/kemojallow/Desktop/newGame/.mono/temp/bin/Tools/3d Endless runner Game.pdb
+/Users/kemojallow/Desktop/newGame/.mono/temp/obj/Tools/3d Endless runner Game.csprojResolveAssemblyReference.cache
+/Users/kemojallow/Desktop/newGame/.mono/temp/obj/Tools/3d Endless runner Game.csproj.CoreCompileInputs.cache
+/Users/kemojallow/Desktop/newGame/.mono/temp/obj/Tools/3d Endless runner Game.dll
+/Users/kemojallow/Desktop/newGame/.mono/temp/obj/Tools/3d Endless runner Game.pdb
